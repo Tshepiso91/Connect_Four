@@ -27,6 +27,11 @@ This repository contains the source code for a Connect 4 game, where two players
 
 The code provides two different approaches to creating the Connect 4 game. The second approach uses a revised version using built-in JavaScript functions.
 
+**Credit:**
+Background:https://coolbackgrounds.io/
+Inspired/taught by:  Ania Kubów https://github.com/kubowania
+
+
 **License:**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
